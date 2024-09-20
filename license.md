@@ -1,0 +1,14 @@
+Phosfar License
+
+Copyright (c) 2024 Jebbidan
+
+Permission is hereby granted, free of charge, to any person obtaining the source code or a copy of this software and associated documentation files (the "Software"), to deal in the Software with the following restrictions:
+---Non-Commercial Use Only: The Software may not be used for any commercial purposes, except under the following conditions:
+Commercial use is permitted only if explicit permission is obtained from the original author(s) and contributors, and appropriate compensation is made to them.
+
+---Source Code Sharing: Any modifications or derivative works of the Software must also be made open source, and the source code must be shared under the same terms as the original Software.
+
+---Derivative Works: Others are free to modify and build upon the Software, but they must adhere to the non-commercial clause mentioned above. They can use, modify, and distribute derivative works, provided that:
+No commercial use is made of the derivative works unless permission and compensation are provided to the original author(s) and contributors.
+
+The above copyright and permission notice shall be included in all copies or substantial portions of the Software.
