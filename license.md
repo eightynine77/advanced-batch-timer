@@ -1,4 +1,4 @@
-Phosfar License
+advanced batch timer License
 
 Copyright (c) 2024 Jebbidan
 
