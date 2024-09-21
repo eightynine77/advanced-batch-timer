@@ -5,3 +5,6 @@ PLEASE READ: _if you are using the newest version of windows 11, you should be a
 
 otherwise, download 7zip to extract the archive file:
 https://www.7-zip.org/download.html
+
+
+go to here to download the program: https://github.com/eightynine77/advanced-batch-timer/releases
